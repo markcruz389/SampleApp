@@ -1,11 +1,7 @@
-﻿using System;
-
-namespace SampleApp.Domain.Entities
+﻿namespace SampleApp.Domain.Entities
 {
-    public class User
+    public class User : BaseEntity
     {
-        public Guid Id { get; set; }
-
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
