@@ -5,7 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="NewFolder\" />
+    <Folder Include="DbContext\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SampleApp.Data\SampleApp.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
