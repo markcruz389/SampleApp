@@ -1,4 +1,4 @@
-﻿namespace SampleApp.Data.Entities
+﻿namespace SampleApp.DataAccess.Entities
 {
     public class User
     {

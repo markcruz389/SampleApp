@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SampleApp.Data.Entities;
+using SampleApp.DataAccess.Entities;
 
-namespace SampleApp.Data
+namespace SampleApp.DataAccess
 {
     public class SampleAppContext : DbContext
     {
