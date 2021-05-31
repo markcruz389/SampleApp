@@ -2,5 +2,5 @@
 Sample application
 
 Disregard the following folders:
-SampleApp.Domain
-SampleApp.Web
+#SampleApp.Domain, 
+#SampleApp.Web
